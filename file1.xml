@@ -1,2 +1,15 @@
 <?xml version="1.0"?>
-<response><position><sourceid>wine_taster</sourceid><name>Wine Taster</name></position><position><sourceid>vintner</sourceid><name>Vintner</name></position></response>
+<response>
+  <position>
+    <sourceid>wine_taster</sourceid>
+    <name>Wine Taster</name>
+  </position>
+  <position>
+    <sourceid>vintner</sourceid>
+    <name>Vintner</name>
+  </position>
+  <position>
+    <sourceid>test3</sourceid>
+    <name>test3</name>
+  </position>
+</response>
