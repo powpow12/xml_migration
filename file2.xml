@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<response>
+  <position>
+    <sourceid>wine_taster2</sourceid>
+    <name>Wine Taster2</name>
+  </position>
+  <position>
+    <sourceid>vintner2</sourceid>
+    <name>Vintner2</name>
+  </position>
+</response>
